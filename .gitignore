@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform.lock.hcl
+terraform.tfvars
+terra-key
+id_rsa
+id_rsa.pub
+ssh-keys/
+*.pem
