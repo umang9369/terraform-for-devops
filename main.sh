@@ -3,11 +3,11 @@ git init
 touch junk
 
 declare -i x
-echo "Enter Beginning date [yyyymmdd]"
+echo "Enter Beginning date [20251211]"
 read x
 
 declare -i y
-echo "Enter End date [yyyymmdd]"
+echo "Enter End date [20251231]"
 read y
 
 DATE=$x
